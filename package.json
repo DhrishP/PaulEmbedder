@@ -23,6 +23,7 @@
     "cheerio": "1.0.0-rc.12",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "gpt-3-encoder": "^1.1.4",
     "postcss": "latest",
     "tailwindcss": "latest",
     "ts-node": "^10.9.1",
